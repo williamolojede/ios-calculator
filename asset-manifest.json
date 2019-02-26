@@ -1,0 +1,13 @@
+{
+  "main.css": "/ios-calculator/static/css/main.7e7a6400.chunk.css",
+  "main.js": "/ios-calculator/static/js/main.c7a70fef.chunk.js",
+  "main.js.map": "/ios-calculator/static/js/main.c7a70fef.chunk.js.map",
+  "static/js/1.f4d10aee.chunk.js": "/ios-calculator/static/js/1.f4d10aee.chunk.js",
+  "static/js/1.f4d10aee.chunk.js.map": "/ios-calculator/static/js/1.f4d10aee.chunk.js.map",
+  "runtime~main.js": "/ios-calculator/static/js/runtime~main.ca14d969.js",
+  "runtime~main.js.map": "/ios-calculator/static/js/runtime~main.ca14d969.js.map",
+  "static/css/main.7e7a6400.chunk.css.map": "/ios-calculator/static/css/main.7e7a6400.chunk.css.map",
+  "index.html": "/ios-calculator/index.html",
+  "precache-manifest.fcba771b614e034ab8c7ca130cd5a249.js": "/ios-calculator/precache-manifest.fcba771b614e034ab8c7ca130cd5a249.js",
+  "service-worker.js": "/ios-calculator/service-worker.js"
+}
